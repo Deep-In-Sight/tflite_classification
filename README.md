@@ -14,5 +14,6 @@ The tflite_classification is an application that determines the presence or abse
 
 ![App Screenshot](front.png)
 
-## Bookmark
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.youtube.com/watch?v=yV9nrRIC_R0)](https://www.youtube.com/watch?v=yV9nrRIC_R0)
+## References
+- https://www.youtube.com/watch?v=yV9nrRIC_R0
+- https://developer.android.com/training/basics/intents/result
