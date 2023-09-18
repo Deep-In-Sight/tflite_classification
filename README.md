@@ -1,25 +1,15 @@
-# tflite_classification
-<<<<<<< HEAD
 
----
+# Tflite_classification
 
-- Kotlin
-- Android SDK 33
-- tflite_model_maker: Classification
+The tflite_classification is an application that determines the presence or absence of a test line in the kit model. The reason for creating this application is that, at the request of Proteometech, it was discovered that the Kit-aid application predicts the concentration of antibodies even when there is no test line. Therefore, by performing this task before entering the regression model, it ensures that if there is no test line, it does not enter the regression model.
 
-![front.png](tflite_classification%201f50783a8c5b478b9700eecb62a72f97/front.png)
 
-<aside>
-💡 The current version does not include the immunecheck-IgE data. It may not work for some data. This version is a test app for operating the Kit-aid application.
+## Badges
 
-</aside>
+![AUR license](https://img.shields.io/aur/license/android-studio) 
+![Static Badge](https://img.shields.io/badge/android_studio-kotlin-kotlin)
+![Static Badge](https://img.shields.io/badge/tensorflow_lite-model_maker-orange)
 
-### References
+## Screenshots
 
----
-
-[Image Classification App | Deploy TensorFlow model on Android | #2](https://www.youtube.com/watch?v=yV9nrRIC_R0)
-
-[Get a result from an activity  |  Android Developers](https://developer.android.com/training/basics/intents/result)
-=======
->>>>>>> 6284f10762b13ea4f525e37d716fa47aa4697f1c
+![App Screenshot](front.png)
