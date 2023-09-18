@@ -1,4 +1,5 @@
 # tflite_classification
+<<<<<<< HEAD
 
 ---
 
@@ -20,3 +21,5 @@
 [Image Classification App | Deploy TensorFlow model on Android | #2](https://www.youtube.com/watch?v=yV9nrRIC_R0)
 
 [Get a result from an activity  |  Android Developers](https://developer.android.com/training/basics/intents/result)
+=======
+>>>>>>> 6284f10762b13ea4f525e37d716fa47aa4697f1c
